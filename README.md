@@ -21,7 +21,7 @@ ExploSearch uses predefined search queries combined with the entered domain to p
 Contributions are welcome! Fork the repository, make changes, and open a pull request. Please ensure to follow the contribution guidelines.
 
 📄 **License:**
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [sm_never use without permisson].
 
 📧 **Contact:**
 For any inquiries or suggestions, contact [Your Name](mailto:sonab3602@gmail.com).
